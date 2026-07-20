@@ -33,7 +33,7 @@ Learn Portuguese from zero with interactive lessons, flashcards, exercises and m
 
    | Variable | Value |
    |---|---|
-   | `VITE_API_URL` | `https://portugai-backend.onrender.com/api` |
+   | `VITE_API_URL` | Your Render backend URL from step 1 + `/api` (e.g. `https://portugai-backend.onrender.com/api`) |
    | `VITE_GOOGLE_CLIENT_ID` | From Google Cloud Console |
 
 5. Click **Deploy** — Vercel will detect `client/vercel.json` and configure the SPA rewrites automatically
